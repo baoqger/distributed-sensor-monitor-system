@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/baoqger/distributed-powerplant-monitor/dto"
-	"github.com/baoqger/distributed-powerplant-monitor/qutils"
+	"github.com/baoqger/distributed-sensor-monitor-system/dto"
+	"github.com/baoqger/distributed-sensor-monitor-system/qutils"
 	"github.com/streadway/amqp"
 )
 

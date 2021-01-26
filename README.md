@@ -1,0 +1,1 @@
+Develop a distributed sensor monitor system with Golang and Rabbitmq.  
